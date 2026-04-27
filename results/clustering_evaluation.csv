@@ -1,0 +1,3 @@
+Metric,K=2,K=4,K=6
+Average Silhouette Width,0.1498,0.1369,0.1318
+Total Within-Cluster Sum of Squares,3025.3632113979993,2375.4722672362336,2030.2956679150598
